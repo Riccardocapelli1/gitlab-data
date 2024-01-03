@@ -1,19 +1,10 @@
-id,username,name,state,avatar_url,web_url
-60,SCACAPRIC1,Riccardo Capelli,active,https://gitlab.schaer.com/uploads/-/system/user/avatar/60/avatar.png,https://gitlab.schaer.com/SCACAPRIC1
-62,Ext-Qunis1,Extern Qunis1,active,https://secure.gravatar.com/avatar/186f0aef801fa9e19d8cef79d5eef4ff?s=80&d=identicon,https://gitlab.schaer.com/Ext-Qunis1
-61,scaAmaigue,Guenther Mair,active,https://gitlab.schaer.com/uploads/-/system/user/avatar/61/scaamaigue.jpg,https://gitlab.schaer.com/scaAmaigue
-79,SCAAUERON,Ronny Auer,active,https://gitlab.schaer.com/uploads/-/system/user/avatar/79/scaaueron.jpg,https://gitlab.schaer.com/SCAAUERON
-85,Giorgio.Santangeli,Giorgio Santangeli,active,https://secure.gravatar.com/avatar/4e7f5c0e122d273c6d7b8168580be388?s=80&d=identicon,https://gitlab.schaer.com/Giorgio.Santangeli
-35,scaDcardan,Daniel Carrarini,active,https://gitlab.schaer.com/uploads/-/system/user/avatar/35/scadcardan.jpg,https://gitlab.schaer.com/scaDcardan
-36,Dpamang,Angelo Pampalone,deactivated,https://gitlab.schaer.com/uploads/-/system/user/avatar/36/sca_nt40dpamang.jpg.jpg,https://gitlab.schaer.com/Dpamang
-37,SCAINNJOS,Josef Innerhofer,active,https://gitlab.schaer.com/uploads/-/system/user/avatar/37/scainnjos.jpg,https://gitlab.schaer.com/SCAINNJOS
-38,SCASEEGUE,Guenther Seeber,active,https://gitlab.schaer.com/uploads/-/system/user/avatar/38/scaseegue.jpg,https://gitlab.schaer.com/SCASEEGUE
-39,JenkinsGitLab,Jenkins,active,https://gitlab.schaer.com/uploads/-/system/user/avatar/39/headshot.png,https://gitlab.schaer.com/JenkinsGitLab
-60,SCACAPRIC1,Riccardo Capelli,active,https://gitlab.schaer.com/uploads/-/system/user/avatar/60/avatar.png,https://gitlab.schaer.com/SCACAPRIC1
-61,scaAmaigue,Guenther Mair,active,https://gitlab.schaer.com/uploads/-/system/user/avatar/61/scaamaigue.jpg,https://gitlab.schaer.com/scaAmaigue
-62,Ext-Qunis1,Extern Qunis1,active,https://secure.gravatar.com/avatar/186f0aef801fa9e19d8cef79d5eef4ff?s=80&d=identicon,https://gitlab.schaer.com/Ext-Qunis1
-67,SCAPRESTE,Stefano Previato,active,https://gitlab.schaer.com/uploads/-/system/user/avatar/67/avatar.png,https://gitlab.schaer.com/SCAPRESTE
-73,SCASTAAAR,Aaron Staffler,active,https://gitlab.schaer.com/uploads/-/system/user/avatar/73/avatar.png,https://gitlab.schaer.com/SCASTAAAR
-79,SCAAUERON,Ronny Auer,active,https://gitlab.schaer.com/uploads/-/system/user/avatar/79/scaaueron.jpg,https://gitlab.schaer.com/SCAAUERON
-83,SCAALBKAR,Karlheinz Alber,active,https://gitlab.schaer.com/uploads/-/system/user/avatar/83/scaalbkar.jpg,https://gitlab.schaer.com/SCAALBKAR
-85,Giorgio.Santangeli,Giorgio Santangeli,active,https://secure.gravatar.com/avatar/4e7f5c0e122d273c6d7b8168580be388?s=80&d=identicon,https://gitlab.schaer.com/Giorgio.Santangeli
+id,username,name,state,avatar_url,web_url
+
+60,SCACAPRIC1,Riccardo Capelli,active,https://gitlab.schaer.com/uploads/-/system/user/avatar/60/avatar.png,https://gitlab.schaer.com/SCACAPRIC1
+
+62,Ext-Qunis1,Extern Qunis1,active,https://secure.gravatar.com/avatar/186f0aef801fa9e19d8cef79d5eef4ff?s=80&d=identicon,https://gitlab.schaer.com/Ext-Qunis1
+
+39,JenkinsGitLab,Jenkins,active,https://gitlab.schaer.com/uploads/-/system/user/avatar/39/headshot.png,https://gitlab.schaer.com/JenkinsGitLab
+
+60,SCACAPRIC1,Riccardo Capelli,active,https://gitlab.schaer.com/uploads/-/system/user/avatar/60/avatar.png,https://gitlab.schaer.com/SCACAPRIC1
+
